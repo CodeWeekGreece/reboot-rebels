@@ -1,2 +1,2 @@
 # reboot-rebels
-app made with Kodular
+App made using Kodular
